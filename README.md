@@ -13,6 +13,8 @@
  cp out/klipper.bin out/ZNP_ROBIN_NANO.bin
 
  将文件输出/ZNP_ROBIN_NANO.bin复制到 SD 卡，然后使用该 SD 卡重新启动打印机。
+ # 固件下载
+ 固件增添到了board firmware里面可以下载了
 # 后续
 先这样吧定期更新吧，不是很会玩github 先这样吧！
 后续再写一下各种调整的模板吧，慢慢研究玩吧
