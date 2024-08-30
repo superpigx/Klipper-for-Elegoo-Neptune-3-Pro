@@ -24,7 +24,7 @@
 https://github.com/TheFeralEngineer/Klipper-for-Elegoo-Neptune-series-3D-Printers
 
 ## 配置文件也是不停修改也写了不少中文的注释，也有从别人那学习来的各种资料，忘了最早是谁修改的版本来着
-## 里面使用了Klipper-Adaptive-Meshing-Purging，直接套用配置可能会出错，先装一下这个
+### 里面使用了Klipper-Adaptive-Meshing-Purging，直接套用配置可能会出错，先装一下这个
 https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 # 时间表
 
