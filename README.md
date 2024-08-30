@@ -20,7 +20,8 @@
 后续再写一下各种调整的模板吧，慢慢研究玩吧
 正好也给自己留个备份
 # 说明
-## 固件是直接从https://github.com/TheFeralEngineer/Klipper-for-Elegoo-Neptune-series-3D-Printers库里弄来的，当然你也可自己编译一个更新一点
+## 固件是直接从TheFeralEngineer库里弄来的，当然你也可自己编译一个新版本的，反正我用着没事
+https://github.com/TheFeralEngineer/Klipper-for-Elegoo-Neptune-series-3D-Printers
 
 ## 配置文件也是不停修改也写了不少中文的注释，也有从别人那学习来的各种资料，忘了最早是谁修改的版本来着
 ## 里面使用了Klipper-Adaptive-Meshing-Purging，直接套用配置可能会出错，先装一下这个
