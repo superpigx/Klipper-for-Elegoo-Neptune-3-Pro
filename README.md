@@ -14,11 +14,18 @@
 
  将文件输出/ZNP_ROBIN_NANO.bin复制到 SD 卡，然后使用该 SD 卡重新启动打印机。
  # 固件下载
- 固件增添到了board firmware里面可以下载了
+ 固件增添到了【klipper固件】里面可以下载了
 # 后续
-先这样吧定期更新吧，不是很会玩github 先这样吧！
+先这样吧，有空我再更新吧，不是很会玩github。老更新不上去！
 后续再写一下各种调整的模板吧，慢慢研究玩吧
 正好也给自己留个备份
+# 说明
+## 固件是直接从https://github.com/TheFeralEngineer/Klipper-for-Elegoo-Neptune-series-3D-Printers库里弄来的，当然你也可自己编译一个更新一点
+
+## 配置文件也是不停修改也写了不少中文的注释，也有从别人那学习来的各种资料，忘了最早是谁修改的版本来着
+## 里面使用了Klipper-Adaptive-Meshing-Purging，直接套用配置可能会出错，先装一下这个
+https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 # 时间表
 
 2024年8月29日 创建仓库上传配置
+2024年8月30日 更新固件，更新文档
